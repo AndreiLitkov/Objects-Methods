@@ -6,6 +6,7 @@ public class Main {
     public static void printSeparator() {
         System.out.println("----------------");
     }
+
     public static void main(String[] args) {
         Product product1 = new Product(99, "TV Samsung", 59999, "техника для дома");
         Product product2 = new Product(43, "Styler Bork", 35999, ",бытовая техника");
